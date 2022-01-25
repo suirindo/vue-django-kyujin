@@ -1,10 +1,10 @@
 {
   "status": "done",
   "assets": {
-    "img/logo.82b9c7a5.png": {
-      "name": "img/logo.82b9c7a5.png",
-      "path": "/Users/tomohiro/programing/vue-django-kyujin/frontend/dist/img/logo.82b9c7a5.png",
-      "publicPath": "http://0.0.0.0:8080/img/logo.82b9c7a5.png"
+    "img/logo.63a7d78d.svg": {
+      "name": "img/logo.63a7d78d.svg",
+      "path": "/Users/tomohiro/programing/vue-django-kyujin/frontend/dist/img/logo.63a7d78d.svg",
+      "publicPath": "http://0.0.0.0:8080/img/logo.63a7d78d.svg"
     },
     "bundle.js": {
       "name": "bundle.js",
