@@ -10,7 +10,7 @@ function handleResponse(response) {
     }
 }
 
-function apiServise(endpoint, method, data) {
+function apiService(endpoint, method, data) {
     const config = {
         method: method || "GET",
         body: data !== undefined ? JSON.stringify(data) : null,
@@ -22,4 +22,4 @@ function apiServise(endpoint, method, data) {
     return fetch(endpoint, config).then(handleResponse);
 }
 
-export { apiServise };
+export { apiService };
